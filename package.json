@@ -1,0 +1,13 @@
+{
+  "name": "dsh-flyme-peek",
+  "version": "0.1.0",
+  "description": "Root + Flyme mini-window (windowingMode 11) tools: open apps in small window and peek content via screenshot/UI dump.",
+  "type": "module",
+  "main": "lib/index.js",
+  "exports": "./lib/index.js",
+  "license": "MIT",
+  "peerDependencies": {
+    "@deepseek-ai/dsh-tools": "*",
+    "@deepseek-ai/cordis": "*"
+  }
+}
